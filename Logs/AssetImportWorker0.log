@@ -98,3 +98,49 @@ Total: 1.415666 ms (FindLiveObjects: 0.103542 ms CreateObjectMapping: 0.036583 m
 
 AssetImportParameters requested are different than current active one (requested -> active):
   custom:graphics/normal-map-encoding: 01000000000000000000000000000000 -> 02000000000000000000000000000000
+========================================================================
+Received Prepare
+Refreshing native plugins compatible for Editor in 5.48 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 27 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 115.7 MB.
+System memory in use after: 115.6 MB.
+
+Unloading 27 unused Assets to reduce memory usage. Loaded Objects now: 2303.
+Total: 15.957583 ms (FindLiveObjects: 4.107292 ms CreateObjectMapping: 0.052667 ms MarkObjects: 11.634041 ms  DeleteObjects: 0.162959 ms)
+
+========================================================================
+Received Prepare
+Refreshing native plugins compatible for Editor in 4.55 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 27 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 115.7 MB.
+System memory in use after: 115.7 MB.
+
+Unloading 27 unused Assets to reduce memory usage. Loaded Objects now: 2303.
+Total: 19.594917 ms (FindLiveObjects: 0.398791 ms CreateObjectMapping: 0.045500 ms MarkObjects: 19.001208 ms  DeleteObjects: 0.148333 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.004814 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for OSXStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.43 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  2.075 seconds
+Platform modules already initialized, skipping
+Switching build target platform(2) subTarget(0) extendedPlatform(0) -> platform(9) subTarget(16777218) extendedPlatform(0)
+Refreshing native plugins compatible for Editor in 0.37 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1829 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 151.2 MB.
+System memory in use after: 151.2 MB.
+
+Unloading 29 unused Assets to reduce memory usage. Loaded Objects now: 2307.
+Total: 3.032833 ms (FindLiveObjects: 0.312875 ms CreateObjectMapping: 0.033708 ms MarkObjects: 2.329167 ms  DeleteObjects: 0.356375 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:graphics/normal-map-encoding: 01000000000000000000000000000000 -> 02000000000000000000000000000000
